@@ -15,4 +15,5 @@ class Artist
     @@all << self 
   end 
   
-  def 
+  def self.all
+    
